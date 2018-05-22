@@ -1,4 +1,4 @@
-#Starter
+#Project Euler
 
 Setup instructions:
 
@@ -6,7 +6,7 @@ NPM must be installed.
 
 * git clone
 * cd to Journal
-* npm install 
+* npm install
 
 npm run start
 
